@@ -7,13 +7,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnoorfatima02&label=Profile%20views&color=0e75b6&style=flat" alt="mahnoorfatima02" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/MahnoorFatima02](https://github.com/MahnoorFatima02)
-
+- 🔭 I’m currently studying at **Metropolia University of Applied Sciences.**
+  
 - 💬 Ask me about **Web development, microservices and AWS Cloud Computing.**
-- 🌱 I’m currently learning **Java and preparing for AWS SAA Certification.**
-
+  
+- 🌱 I’m learning **Java and preparing for AWS SAA Certification.**
+  
+- 👨‍💻 All of my projects are available at [https://github.com/MahnoorFatima02](https://github.com/MahnoorFatima02)
+  
 - 📫 How to reach me **https://www.linkedin.com/in/mahnoor-fatima-46ba98b6/**
-
+  
 - ⚡ Fun fact **I like hiking.**
 
 <h3 align="left">Connect with me:</h3>
