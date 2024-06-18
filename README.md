@@ -1,4 +1,4 @@
-<img src="https://github.com/MahnoorFatima02/MahnoorFatima02/blob/main/gitbanner3.png" alt="logo" width="800" height="400">
+<img src="https://github.com/MahnoorFatima02/MahnoorFatima02/blob/main/gitbanner3.png" alt="logo" width="1000" height="250">
 
 <h1 align="center">Hi 👋, I'm Mahnoor Fatima</h1>
 <h3 align="center">A 2nd year Software Engineer from Finland.</h3>
