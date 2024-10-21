@@ -34,10 +34,13 @@
 
 ## Featured Repositories
 
-- [Repository 1](https://github.com/MahnoorFatima02/AWS-Project-Backend): 
+- [Repository 1](https://github.com/MahnoorFatima02/Refoodify): 
+It is a web application to utilise near expiry food by suggesting relevant recipes. It also includes a shop feature that showcases near-expiry food items from supermarkets at discounted prices.
+- [Repository 2](https://github.com/MahnoorFatima02/AWS-Project-Backend): 
 A Node.js app built with Express, hosted on AWS Cloud, and integrated with an RDS database for full-stack functionality.
-- [Repository 2](https://github.com/MahnoorFatima02/SmartHeart): 
-Smart Heart is a efficient non-invasive heart rate measuring device. 
+- [Repository 3](https://github.com/MahnoorFatima02/SmartHeart): 
+Smart Heart is a efficient non-invasive heart rate measuring device.
+
 
 &nbsp;&nbsp; 
 
