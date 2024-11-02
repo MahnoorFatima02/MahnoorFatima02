@@ -40,7 +40,8 @@ It is a web application to utilise near expiry food by suggesting relevant recip
 A Node.js app built with Express, hosted on AWS Cloud, and integrated with an RDS database for full-stack functionality.
 - [Repository 3](https://github.com/MahnoorFatima02/SmartHeart): 
 Smart Heart is a efficient non-invasive heart rate measuring device.
-
+- [Repository 4](https://github.com/MahnoorFatima02/Flight_game_website): 
+In this Python game Flight, a pilot with limited fuel travels to airports to rescue people. Each airport visit can bring rewards (fuel or efficiency) or penalties (lost points or fuel). The goal is to reach five airports and save enough people to win.
 
 &nbsp;&nbsp; 
 
