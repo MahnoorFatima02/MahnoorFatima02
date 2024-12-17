@@ -40,9 +40,11 @@ It is a web application to utilise near expiry food by suggesting relevant recip
 A Node.js app built with Express, hosted on AWS Cloud, and integrated with an RDS database for full-stack functionality.
 - [Repository 3](https://github.com/MahnoorFatima02/SmartHeart): 
 Smart Heart is a efficient non-invasive heart rate measuring device.
-- [Repository 4](https://github.com/MahnoorFatima02/Flight_game_website): 
+- [Repository 4](https://github.com/MahnoorFatima02/LanguageTranslator): 
+  The app takes an input in English and converts it to the Finnish language using a python flask backend. It uses Transformers to load the mode and a Pipeline for translation.
+- [Repository 5](https://github.com/MahnoorFatima02/Flight_game_website): 
 In this Python game Flight, a pilot with limited fuel travels to airports to rescue people. Each airport visit can bring rewards (fuel or efficiency) or penalties (lost points or fuel). The goal is to reach five airports and save enough people to win.
-- [Repository 5](https://github.com/MahnoorFatima02/Cafeteria_Simulator):
+- [Repository 6](https://github.com/MahnoorFatima02/Cafeteria_Simulator):
 University Cafeteria Simulator for identitfying bottlenecks and analyzing different paramters effect on efficiency. This project its live animations and JavaFX charts.
 &nbsp;&nbsp; 
  
