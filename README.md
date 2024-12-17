@@ -42,9 +42,10 @@ A Node.js app built with Express, hosted on AWS Cloud, and integrated with an RD
 Smart Heart is a efficient non-invasive heart rate measuring device.
 - [Repository 4](https://github.com/MahnoorFatima02/Flight_game_website): 
 In this Python game Flight, a pilot with limited fuel travels to airports to rescue people. Each airport visit can bring rewards (fuel or efficiency) or penalties (lost points or fuel). The goal is to reach five airports and save enough people to win.
-
+- [Repository 5](https://github.com/MahnoorFatima02/Cafeteria_Simulator):
+University Cafeteria Simulator for identitfying bottlenecks and analyzing different paramters effect on efficiency. This project its live animations and JavaFX charts.
 &nbsp;&nbsp; 
-
+ 
 ## Profile Statistics 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahnoorfatima02&show_icons=true&locale=en&layout=compact" alt="mahnoorfatima02" />
