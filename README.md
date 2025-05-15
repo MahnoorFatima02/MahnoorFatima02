@@ -35,19 +35,19 @@
 ## Featured Repositories
 
 - [Refoodify ](https://github.com/MahnoorFatima02/Refoodify): 
-It is a web application to utilise near expiry food by suggesting relevant recipes. It also includes a shop feature that showcases near-expiry food items from supermarkets at discounted prices.
+It is a Java based web application to utilise near expiry food by suggesting relevant recipes. It also includes a shop feature that showcases near-expiry food items from supermarkets at discounted prices.
 - [AWS Backend ](https://github.com/MahnoorFatima02/AWS-Project-Backend): 
 A Node.js app built with Express, hosted on AWS Cloud, and integrated with an RDS database for full-stack functionality.
 - [Smart Heart ](https://github.com/MahnoorFatima02/SmartHeart): 
-Smart Heart is a efficient non-invasive heart rate measuring device.
+Smart Heart is a efficient non-invasive heart rate measuring device developed using Java.
 - [Language Translator](https://github.com/MahnoorFatima02/LanguageTranslator): 
-The app takes an input in English and converts it to the Finnish language using a python flask backend. It uses Transformers to load the mode and a Pipeline for translation.
+The app takes an input in English and converts it to the Finnish language using a Python Flask backend. It uses Transformers to load the mode and a Pipeline for translation.
 - [Library Management System with advance DevOps tools ](https://github.com/MahnoorFatima02/Luku):
-It offers intuitive features for students and teachers to browse, search, and reserve books using localization in English, Russian, and Urdu.
+It is a Java based application that offers intuitive features for students and teachers to browse, search, and reserve books using localization in English, Russian, and Urdu.
 - [Flight game ](https://github.com/MahnoorFatima02/Flight_game_website): 
 In this Python game Flight, a pilot with limited fuel travels to airports to rescue people. Each airport visit can bring rewards (fuel or efficiency) or penalties (lost points or fuel). The goal is to reach five airports and save enough people to win.
 - [University Cafeteria Simulation ](https://github.com/MahnoorFatima02/Cafeteria_Simulator):
-University Cafeteria Simulator for identitfying bottlenecks and analyzing different paramters effect on efficiency. This project its live animations and JavaFX charts.
+University Cafeteria Simulator for identitfying bottlenecks and analyzing different paramters effect on efficiency. This project is based on Java, its live animations and charts are JavaFX.
 &nbsp;&nbsp; 
  
 ## Profile Statistics 
