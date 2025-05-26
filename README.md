@@ -13,9 +13,18 @@
   
 - 🌱 I’m learning **full-stack development (MERN), Java and preparing for AWS SAA Certification.**
   
-- 👨‍💻 All of my projects are available at [https://github.com/MahnoorFatima02](https://github.com/MahnoorFatima02)
+- 🚀 Deployed Projects:
+    1. **Refoodify (Java + React)**
+       - Backend: Java, REST APIs
+       - Frontend: React, Redux Toolkit, Tailwind
+       - [Live Demo](https://refoodify.onrender.com/) | [Repo](https://github.com/MahnoorFatima02/Refoodify)
+     
+    2. **ShellLuxe (Python FastAPI + React)**
+         - Backend: FastAPI, PostgreSQL, Testcontainers, Pytest
+         - Frontend: React, Redux, Material UI
+         - [Live Demo](https://seashellcollection.onrender.com/) | [Repo](https://github.com/MahnoorFatima02/SeaShellCollection)
   
-- 📫 How to reach me **https://www.linkedin.com/in/mahnoor-fatima-46ba98b6/**
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/mahnoor-fatima-46ba98b6/)
   
 - ⚡ Fun fact **I like hiking.**
 
@@ -36,6 +45,8 @@
 
 - [Refoodify ](https://github.com/MahnoorFatima02/Refoodify): 
 It is a Java based web application to utilise near expiry food by suggesting relevant recipes. It also includes a shop feature that showcases near-expiry food items from supermarkets at discounted prices.
+- [Shell Luxe](https://github.com/MahnoorFatima02/SeaShellCollection)
+SeaShell Collection is a full-stack web application for managing sea shells, built with FastAPI (backend), React (frontend), and PostgreSQL (Neon cloud database). It supports user authentication, CRUD operations. 
 - [AWS Backend ](https://github.com/MahnoorFatima02/AWS-Project-Backend): 
 A Node.js app built with Express, hosted on AWS Cloud, and integrated with an RDS database for full-stack functionality.
 - [Smart Heart ](https://github.com/MahnoorFatima02/SmartHeart): 
